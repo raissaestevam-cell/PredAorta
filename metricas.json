@@ -1,0 +1,1 @@
+{"Óbito 30 dias": {"auroc": 0.779, "ic_inf": 0.712, "ic_sup": 0.844, "brier": 0.058}, "Complicação grave": {"auroc": 0.914, "ic_inf": 0.881, "ic_sup": 0.941, "brier": 0.071}, "Reinternação 30d": {"auroc": 0.535, "ic_inf": 0.481, "ic_sup": 0.588, "brier": 0.162}}

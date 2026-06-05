@@ -1,0 +1,1 @@
+[{"exame": "albumina", "sinal": "<", "corte": 3.1, "label": "Albumina < 3,1 g/dL"}, {"exame": "ureia", "sinal": ">", "corte": 19.0, "label": "Ureia > 19,0 mg/dL"}, {"exame": "lactato", "sinal": ">", "corte": 2.6, "label": "Lactato > 2,6 mmol/L"}, {"exame": "hemoglobina", "sinal": "<", "corte": 10.7, "label": "Hemoglobina < 10,7 g/dL"}]
